@@ -1,0 +1,21 @@
+{
+  "ver": "1.1.3",
+  "uuid": "90fbca60-2369-4760-ba94-2be7cea801e2",
+  "importer": "folder",
+  "isBundle": false,
+  "bundleName": "hair_female",
+  "priority": 1,
+  "compressionType": {
+    "web-mobile": "default"
+  },
+  "optimizeHotUpdate": {
+    "web-mobile": false
+  },
+  "inlineSpriteFrames": {
+    "web-mobile": true
+  },
+  "isRemoteBundle": {
+    "web-mobile": false
+  },
+  "subMetas": {}
+}
